@@ -1,3 +1,3 @@
 # Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 
-## Done by Ankit Gandhi
+## Done by Ankit Gandhi.
